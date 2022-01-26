@@ -1,0 +1,11 @@
+.min-width-400 {
+    min-width: 400px;
+}
+
+.max-width-500 {
+    max-width: 500px;
+}
+
+.nav-link-pointer {
+    cursor: pointer;
+}
