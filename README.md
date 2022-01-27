@@ -21,3 +21,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+P.S.: If I had also implemented the Google Sign-in, I would design it as depicted in the following diagram
+
+![Design diagram](diagram.png "Design diagram")
